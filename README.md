@@ -2,6 +2,25 @@
 
 A parallelized recursive implementation of `ls` using `fs.readdir`
 
+Time spent: 6 hours
+
+Completed:
+
+* [x] Required: ls
+* [x] Required: rm
+* [x] Required: cat
+* [x] Required: mkdir
+* [x] Required: touch
+* [x] Required: ln
+* [] Required: echo
+* [] Required: grep
+
+
+Walkthrough Gif:
+
+![Video Walkthrough](ls-walkthru.gif)
+
+
 ## How To Use:
 
 ### Setup
